@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(23, 46, 53);
+  margin-top : 10px !important;
+  margin-bottom:30px !important;
+  font-size:20px;
+  color:#00ffff ;
+  font-family: 'Crushed', cursive;
+}
+.cursive{
+  font-family: 'Pacifico', cursive;
+}
+
+#bodie{
+  margin-left:20px;
+  margin-right:20px;
+  padding-left:40px;
+  paddng-right:40px;
+}
+h1{
+  font-size:220px;
+}
+h3{
+  font-size:50px;
+  color :#fd1c03 ;
+}
